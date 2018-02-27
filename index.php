@@ -31,8 +31,8 @@
             <label for="password">Senha:</label>
             <input type="password" class="form-control form-control-lg" id="password" placeholder="Digite sua senha aqui" required>
           </div>
-            <button type="submit" class="btn btn-outline-primary btn-lg col-md-4 offset-md-2 mt-3">Entrar</button>
-            <button type="button" class="btn btn-outline-primary btn-lg col-md-4 mt-3" data-toggle="modal" data-target="#cadastroModal" >Cadastrar</button>
+            <a href="menu.php" role="button" class="btn btn-outline-primary btn-lg col-md-4 offset-md-2 mt-3">Entrar</a>
+            <a href="" role="button" class="btn btn-outline-primary btn-lg col-md-4 mt-3" data-toggle="modal" data-target="#cadastroModal">Cadastrar</a>
         </form>
       </div>
     </div>
